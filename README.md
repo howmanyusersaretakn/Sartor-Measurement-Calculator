@@ -4,6 +4,9 @@ NOTE: Project was made with inches in mind. I might do the conversions at a late
 This is a very simple python project (pretty much plug and play); Once you download the project and run it, it will ask for 3 sets of measurements: height, hip, and waist. 
 
 
+Also keep in mind that these measurements will not be 100% accurate, since every person's proportions are different. But it gives a good starting point when you start to draft your patterns
+
+
 Output will be a formatted table of data.
 
 
